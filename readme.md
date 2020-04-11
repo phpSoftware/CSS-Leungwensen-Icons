@@ -8,7 +8,7 @@ and run `icon.php` on e.g. localhost.
 It will read SVG icons from the folder `leungwensen` and it\'s subfolder and build css from it.
 Now you can use the `leungwensen-SUBFOLDER.css` without the SVG Icons!__
 
-**HINT:** SubFolder `flag`, `game` and `logos` don\'t work!
+**HINT:** SubFolders `flag`, `game` and `logos` don\'t work!
 
 License
 -------
